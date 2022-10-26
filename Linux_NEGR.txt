@@ -1,0 +1,52 @@
+https://www.linuxmint.com/download.php
+
+
+
+atualizar o Linux
+sudo apt update && sudo apt upgrade -y
+
+wind
+Cara do Windows
+
+botao iniciar >> Preferencias  >>  COnficurações do Sistema 
+   opção temas, ir em adicionar/remover
+
+
+* baixar o windos 10 Light theme
+* baixar Windows 10 Basic
+
+voltar para temas
+ * em bordas da Janelas  alterar para windows 10
+ * em controles alterar para windows 10
+ * em area de trabalho  alterar para windows 10
+
+em configurações, habilitar  mostrar ícones em botões
+
+
+baixar icones do bomerang   https://b00merang.weebly.com/icon-themes.html
+ extrair e salvar na pasta pessoal
+dar CTRL + H para exibir os arquivos ocultos, colar a pasta descompactada do windows 10 para a pasta oculta .icons
+
+CTRL + H novamente para ocultar
+
+Voltar para temas e ir agora para icones, e selecionar  Windows-10 master
+
+
+Ir no botão inicar  clicar como botão direito, selecionar configurar ir em icone e pesquisae "Gnome-main-menu" selecione ele
+
+Ir no botão inicar  selecionar applets, downloads e baixar o "CinnVIIStarMenu" e o "Ice Task Manager" e o "internet search box", depois de baixados adicioná-los no +
+
+
+Clicar na barra inferior de Status como botão direito e ir em "modo de edição do painel" para posicionar o novo botão de iniciar e remover o antigo
+
+clicar com o botão direito no novo botão de menu, configurar,  em painel habilitar usar icone e rótulo personalisado. Em texto apagar a palavra menu
+ir em icones , clicar na icone, ir na opção outros e selecionar a  "Gnome-main-menu" 
+
+
+Clicar na barra inferior de Status como botão direito e ir em "Configurações do painel"
+* em opções gerais do painel:  habilitar a opção permitir que o cursor passe atraves das bordas dos paineis e depois adicionar novo painel
+
+Ir no botão inicar, "exibir todos os programas",  selecionar area de trabalho e habilitar a lixeira
+
+
+baixar um papel de parede do windows 10  e aplicar
